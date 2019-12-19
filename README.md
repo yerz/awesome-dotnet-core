@@ -919,7 +919,7 @@ Follows best practices and conventions to provide you a SOLID development experi
 ## Community
 * [.NET Foundation](http://forums.dotnetfoundation.org)
 * [.NET Blog](https://devblogs.microsoft.com/dotnet/)
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
+* [CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
 * [Awesome .NET open source & community resources](https://discoverdot.net)
